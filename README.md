@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @berfeela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning to code
+- 👀 I do Product Management
+- 🌱 I’m currently learning everything
 - 📫 meghav@retainiq.io // @meghavverma
-- ⚡ Fun fact: ...
+- ⚡ Hobbies: music and video games
 
 <!---
 berfeela/berfeela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

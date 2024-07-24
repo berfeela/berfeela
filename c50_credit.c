@@ -74,7 +74,7 @@ int main(void)
 
         else if ((len == 13 || len == 16) && (cn_typ/10 == 4))
         {
-            printf ("Visa");
+            printf ("VISA");
         }
 
         else

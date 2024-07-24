@@ -11,7 +11,7 @@ int main(void)
     int sum = 0;
     int product = 0;
 
-    // calculating the length of the card number
+    //calculating the length of the card number
     int len = 0;
     while (cn_len != 0)
     {
@@ -22,7 +22,7 @@ int main(void)
     for (int i = 0; i < len; i++)
     {
         //isolating the ones place digit
-        int alt_pick = cnum - (cnum/10);
+        int alt_pick = cnum - ((cnum / 10) * 10); //cnum/10 * 10
 
         //checking for odd/even run of the loop
         if (((i + 1) / 2) - (i / 2) == 0)
@@ -32,7 +32,7 @@ int main(void)
 
         else 
         {
-            //checking if the isolated digit*2 is more or than 10
+            //checking if the isolated digit * 2 is more than 10
             if ((alt_pick * 2) - 10 >= 0)
             {
                 int tens = (alt_pick * 2)/10;
@@ -53,37 +53,37 @@ int main(void)
     if (verifier - (verifier / 10) * 10 == 0)
     {
         printf ("Card is valid.\n");
+
+        // determining whether Mastercard, Visa or Amex
+        for (int j = 0; j < (len - 2); j++)
+        {
+            cn_typ = cn_typ/10;
+        }
+
+        //cn_typ is now equal to the last 2 digits of the card number
+        if ( len == 15 && (cn_typ = 34 || 37))
+        {
+            printf ("American Express");
+        }
+
+        else if ( len == 16 && (cn_typ = 51 || 52 || 53 || 54 || 55))
+        {
+            printf ("MasterCard");
+        }
+
+        else if ((len = 13 || 16) && (cn_typ/10 == 4))
+        {
+            printf ("Visa");
+        }
+
+        else
+        {
+            printf ("Card invalid");
+        }
     }
 
     else 
     {
         printf("Card is fake.\n");
-    }
-
-    // determining whether Mastercard, Visa or Amex
-    for (int j = 0; j < (len - 2); j++)
-    {
-        cn_typ = cn_typ/10;
-    }
-
-    //cn_typ is now equal to the last 2 digits of the card number
-    if ( len == 15 && (cn_typ = 34 || 37))
-    {
-        printf ("American Express");
-    }
-
-    else if ( len == 16 && (cn_typ = 51 || 52 || 53 || 54 || 55))
-    {
-        printf ("MasterCard");
-    }
-
-    else if ((len = 13 || 16) && (cn_typ/10 == 4))
-    {
-        printf ("Visa");
-    }
-
-    else
-    {
-        printf ("Card invalid");
     }
 }

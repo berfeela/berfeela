@@ -5,14 +5,17 @@ int main(void)
 {
     long long cnum = get_long_long("Enter your Credit/Debit Card Number -\n");
 
+    long long cn_len = cnum;
+    long long cn_typ = cnum;
+
     int sum = 0;
     int product = 0;
 
     // calculating the length of the card number
     int len = 0;
-    while (cnum != 0)
+    while (cn_len != 0)
     {
-        cnum = cnum/10;
+        cn_len = cn_len/10;
         len++;
     }
 
@@ -49,12 +52,38 @@ int main(void)
 
     if (verifier - (verifier / 10) * 10 == 0)
     {
-        printf ("Card is valid");
+        printf ("Card is valid.\n");
     }
 
     else 
     {
-        printf("Card is fake");
+        printf("Card is fake.\n");
     }
 
+    // determining whether Mastercard, Visa or Amex
+    for (int j = 0; j < (len - 2); j++)
+    {
+        cn_typ = cn_typ/10;
+    }
+
+    //cn_typ is now equal to the last 2 digits of the card number
+    if ( len == 15 && (cn_typ = 34 || 37))
+    {
+        printf ("American Express");
+    }
+
+    else if ( len == 16 && (cn_typ = 51 || 52 || 53 || 54 || 55))
+    {
+        printf ("MasterCard");
+    }
+
+    else if ((len = 13 || 16) && (cn_typ/10 == 4))
+    {
+        printf ("Visa");
+    }
+
+    else
+    {
+        printf ("Card invalid");
+    }
 }

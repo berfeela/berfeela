@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berfeela
 - 👀 I do Product Management
 - 🌱 I’m currently learning everything
-- 📫 meghav@retainiq.io // @meghavverma
+- 📫 meghavverma@gmail.com // @meghavverma
 - ⚡ Hobbies: music and video games
 
 <!---

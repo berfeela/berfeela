@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berfeela
 - 👀 I do Product Management
-- 🌱 I’m currently learning everything
-- 📫 meghavverma@gmail.com // @meghavverma
+- 🌱 I’m building columsprout.ai
+- 📫 meghav@columsprout.ai // @meghavverma
 - ⚡ Hobbies: music and video games
 
 <!---

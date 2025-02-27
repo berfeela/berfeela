@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @berfeela
-- 👀 I do Product Management
-- 🌱 I’m building columsprout.ai
-- 📫 meghav@columsprout.ai // @meghavverma
-- ⚡ Hobbies: music and video games
+# Hi there! 👋 I'm Berfeela  
 
-<!---
-berfeela/berfeela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Founder/Product Manager** building intuitive AI-driven solutions.  
+Currently, I'm working on **[Columsprout AI](https://columsprout.ai)**, where we're redefining how SMB eCommerce brands use Gen AI for growth.  
+
+## 💡 What I do  
+- 🛠 **Building**: Shaping AI-powered products at **Columsprout AI**  
+- 🎯 **Product Management**: Solving real-world problems with tech
+- 🎵 **Hobbies**: Music & Video Games 🎮  
+
+📫 Reach me at **meghav@columsprout.ai**  

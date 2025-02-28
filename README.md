@@ -1,7 +1,7 @@
 <div align="left">
   <!-- Right-aligned image (25% width) -->
   <img 
-    src="https://ik.imagekit.io/meghav/tenor.gif?updatedAt=1740704850016" 
+    src="https://ik.imagekit.io/meghav/tenor.gif?updatedAt=1740747047610" 
     width="25%" 
     align="right"
     alt="khun-crown-gif"

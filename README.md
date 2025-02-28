@@ -10,6 +10,7 @@
   <!-- Second image (non-floated) -->
   <img 
     src="https://ik.imagekit.io/meghav/tenor%20(1)%20(1)%20(1).gif?updatedAt=1740706312850"
+    width="90%"
     alt="saybaa"
   />
 

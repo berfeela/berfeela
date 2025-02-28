@@ -36,6 +36,6 @@
   <!-- Social & Contact Badges -->
   [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/meghav-verma/)
   [![](https://img.shields.io/badge/discord-6364ff)](https://discordapp.com/users/410056036549001226)
-  [![](https://img.shields.io/badge/twitter%2Fx-69899c)](https://x.com/MeghavVerma22)
-  [![](https://img.shields.io/badge/email-a58849)](mailto:meghav@columsprout.ai)
+  [![](https://img.shields.io/badge/twitter%2Fx-111315)](https://x.com/MeghavVerma22)
+  [![](https://img.shields.io/badge/email-meghav@columsprout.ai-4a49a5)](mailto:meghav@columsprout.ai)
 </div>

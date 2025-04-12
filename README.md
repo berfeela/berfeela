@@ -22,7 +22,7 @@
   </p>
 
   <p>
-    I'm a Founder/Product guy looking for ways to make life easier with tech in the marketing space.
+    I'm a Founder/Product guy building ways to make life easier with tech in the marketing space.
   </p>
   <br><br>
   <p style="margin-top: 40px;"><strong><u>What I'm up to</u></strong></p>

@@ -27,7 +27,7 @@
   <br><br>
   <p style="margin-top: 40px;"><strong><u>What I'm up to</u></strong></p>
   <ul>
-    <li>🛠 Building: Shaping AI-powered products at <a href="https://columsprout.ai"><strong>Columsprout AI</strong></a></li>
+    <li>🛠 Building: Shaping AI-powered products at <a href="https://columsprout.ai"><strong>ColumsproutAI</strong></a></li>
     <li>🎵 Hobbies: Music &amp; Video Games 🎮</li>
   </ul>
 

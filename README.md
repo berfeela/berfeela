@@ -36,5 +36,5 @@
   <!-- Social & Contact Badges -->
   [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/meghav-verma/)
   [![](https://img.shields.io/badge/discord-6364ff)](https://discordapp.com/users/410056036549001226)
-  [![](https://img.shields.io/badge/email-meghav@columsprout.ai-4a49a5)](mailto:meghav@columsprout.ai)
+  [![](https://img.shields.io/badge/email-meghav@columsprout.ai-black)](mailto:meghav@columsprout.ai)
 </div>

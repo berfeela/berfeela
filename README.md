@@ -22,7 +22,7 @@
   </p>
 
   <p>
-    I'm a Founder/Product guy building ways to make life easier with tech in the marketing space.
+    I'm a Founder/Product guy building ways to make life easier with tech in marketing space.
   </p>
   <br><br>
   <p style="margin-top: 40px;"><strong><u>What I'm up to</u></strong></p>
@@ -34,7 +34,13 @@
   <br>
 
   <!-- Social & Contact Badges -->
-  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/meghav-verma/)
-  [![](https://img.shields.io/badge/discord-6364ff)](https://discordapp.com/users/410056036549001226)
-  [![](https://img.shields.io/badge/email-meghav@columsprout.ai-black)](mailto:meghav@columsprout.ai)
+  <a href="https://www.linkedin.com/in/meghav-verma/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0a66c2" alt="LinkedIn">
+  </a>
+  <a href="https://discordapp.com/users/410056036549001226" target="_blank">
+    <img src="https://img.shields.io/badge/discord-6364ff" alt="Discord">
+  </a>
+  <a href="mailto:meghav@columsprout.ai">
+    <img src="https://img.shields.io/badge/email-meghav@columsprout.ai-black" alt="Email">
+  </a>
 </div>
